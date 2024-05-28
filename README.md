@@ -1,2 +1,2 @@
-# raspi-proj
-Raspberry Pi project
+# 🍓 Raspi project 
+Raspberry Pi model 4b project
